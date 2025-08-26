@@ -36,7 +36,7 @@ I'm an aspiring **backend developer** specializing in Go, cloud-native technolog
 ![AWS S3](https://img.shields.io/badge/-AWS_S3-569A31?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Git](https.img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
 
 ## 🌟 Featured Projects
 
